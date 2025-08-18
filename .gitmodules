@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/antoniomucollari/movie_ts
+[submodule "server"]
+	path = server
+	url = https://github.com/antoniomucollari/MoviesApiDotNet
