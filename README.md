@@ -19,6 +19,26 @@ It showcases the implementation of complex data models with many-to-many relatio
 The application allows **regular users** to browse, filter, and rate movies, while providing a powerful and exclusive **administrative dashboard** for managing all content.
 
 ---
+# Live Demo
+
+You can view and interact with the deployed application here:  
+👉 [Fullstack Movies App](https://movie-ts-o12e.vercel.app/)
+
+---
+
+### 🔑 Admin Access
+To explore the **administrative dashboard** and its features (creating, editing, deleting content), please use the following credentials:
+
+- **Email:** `toni145@gmail.com`  
+- **Password:** `Toni145@!`  
+
+⚠️ **Note:** This is a shared admin account for demonstration purposes. Please be mindful when making changes.
+
+---
+
+### 📸 Screenshots
+![Application Screenshot](https://github.com/user-attachments/assets/9454dd09-e1f7-4934-8c88-e214d02b5428)  
+
 
 ## ✨ Key Features
 
