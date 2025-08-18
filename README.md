@@ -37,8 +37,7 @@ To explore the **administrative dashboard** and its features (creating, editing,
 ---
 
 ### 📸 Screenshots
-![Application Screenshot](https://github.com/user-attachments/assets/9454dd09-e1f7-4934-8c88-e214d02b5428)  
-
+![Homepage Screenshot](assets/Screenshot2025-08-18231308.png)
 
 ## ✨ Key Features
 
