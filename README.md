@@ -37,7 +37,9 @@ To explore the **administrative dashboard** and its features (creating, editing,
 ---
 
 ### 📸 Screenshots
-![Homepage Screenshot](assets/Screenshot2025-08-18231308.png)
+![Homepage Screenshot](assets/sc1.png)
+![Homepage Screenshot](assets/sc2.png)
+![Homepage Screenshot](assets/sc3.png)
 
 ## ✨ Key Features
 
