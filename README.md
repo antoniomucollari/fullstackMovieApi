@@ -22,6 +22,7 @@ The application allows **regular users** to browse, filter, and rate movies, whi
 # Live Demo
 
 You can view and interact with the deployed application here:  
+> ⚠️ **Note:** The live deployment link is no longer active as the backend services have been taken offline.
 👉 [Fullstack Movies App](https://movie-ts-o12e.vercel.app/)
 
 ---
